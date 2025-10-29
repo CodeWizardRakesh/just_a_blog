@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="Screenshot" src="/images/page-screenshot.png" />
+<img width="1200" height="475" alt="Screenshot" src="images/page-screenshot.png" />
 </div>
 
 # just_a_blog — AI Tools Showcase
